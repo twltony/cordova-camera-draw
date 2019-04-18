@@ -1,0 +1,19 @@
+{
+  "name": "com.nimble.native",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.nimble.native",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}

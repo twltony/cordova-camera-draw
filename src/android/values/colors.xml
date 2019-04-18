@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="brush_color_1">#000000</color>
+    <color name="brush_color_2">#f73e3c</color>
+    <color name="brush_color_3">#ffff00</color>
+    <color name="brush_color_4">#2ce15e</color>
+
+</resources>
