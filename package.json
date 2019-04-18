@@ -1,9 +1,9 @@
 {
-  "name": "com.nimble.native",
+  "name": "com-nimble-native",
   "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "com.nimble.native",
+    "id": "com-nimble-native",
     "platforms": [
       "android"
     ]
